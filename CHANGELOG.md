@@ -3,6 +3,15 @@
 
 ### Bug Fixes
 
+* Empty commit to trigger Actions ([bfa71d7](https://github.com/dbirks/shepherd/commit/bfa71d76b0dc18fb9f77b231f8a18479c55a1710))
+* Remove engines block from renovate config ([0b7976e](https://github.com/dbirks/shepherd/commit/0b7976e32897db82708e7d1f94229c0a745c1b17))
+* Remove space from .eslintignore filename ([50a1fdd](https://github.com/dbirks/shepherd/commit/50a1fdd5f4a7435e0a08a3f00a667b952eedc32d))
+
+## [1.15.3](https://github.com/dbirks/shepherd/compare/v1.15.2...v1.15.3) (2021-10-01)
+
+
+### Bug Fixes
+
 * Remove engines block from renovate config ([0b7976e](https://github.com/dbirks/shepherd/commit/0b7976e32897db82708e7d1f94229c0a745c1b17))
 * Remove space from .eslintignore filename ([50a1fdd](https://github.com/dbirks/shepherd/commit/50a1fdd5f4a7435e0a08a3f00a667b952eedc32d))
 
