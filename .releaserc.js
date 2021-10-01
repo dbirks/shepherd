@@ -44,7 +44,12 @@ const releaseConfig = {
                 parserOpts
             }
         ],
-        '@semantic-release/npm',
+        [
+            "@semantic-release/npm",
+            {
+                "npmPublish": false
+            }
+        ],
         '@semantic-release/changelog',
         [
             '@semantic-release/git',
