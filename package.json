@@ -1,6 +1,6 @@
 {
   "name": "@dbirks/shepherd",
-  "version": "1.14.2",
+  "version": "1.15.2",
   "description": "A utility for applying code changes across many repositories",
   "keywords": [
     "codemod",

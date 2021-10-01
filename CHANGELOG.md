@@ -1,3 +1,11 @@
+## [1.15.2](https://github.com/dbirks/shepherd/compare/v1.15.1...v1.15.2) (2021-10-01)
+
+
+### Bug Fixes
+
+* just a empty commit to test the Actions ([fdf5db7](https://github.com/dbirks/shepherd/commit/fdf5db7ce4e3f26d5836f53c8a6b598555961019))
+* Make semantic-release commit the updated package.json files ([ca5e4cd](https://github.com/dbirks/shepherd/commit/ca5e4cdb6b464b6d9adb5a5801e8bb7125090707)), closes [/github.com/semantic-release/semantic-release/issues/1593#issuecomment-656866839](https://github.com//github.com/semantic-release/semantic-release/issues/1593/issues/issuecomment-656866839)
+
 ## [1.15.2](https://github.com/NerdWalletOSS/shepherd/compare/v1.15.1...v1.15.2) (2021-10-01)
 
 ## [1.15.1](https://github.com/NerdWalletOSS/shepherd/compare/v1.15.0...v1.15.1) (2021-09-10)
