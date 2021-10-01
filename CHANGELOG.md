@@ -1,3 +1,10 @@
+## [1.15.4](https://github.com/dbirks/shepherd/compare/v1.15.3...v1.15.4) (2021-10-01)
+
+
+### Bug Fixes
+
+* Empty commit to trigger Actions ([b28ce95](https://github.com/dbirks/shepherd/commit/b28ce9559d7b3988dddecbec8558d038b0ad957c))
+
 ## [1.15.3](https://github.com/dbirks/shepherd/compare/v1.15.2...v1.15.3) (2021-10-01)
 
 
