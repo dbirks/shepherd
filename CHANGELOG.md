@@ -4,6 +4,14 @@
 ### Bug Fixes
 
 * Remove engines block from renovate config ([0b7976e](https://github.com/dbirks/shepherd/commit/0b7976e32897db82708e7d1f94229c0a745c1b17))
+* Remove space from .eslintignore filename ([50a1fdd](https://github.com/dbirks/shepherd/commit/50a1fdd5f4a7435e0a08a3f00a667b952eedc32d))
+
+## [1.15.3](https://github.com/dbirks/shepherd/compare/v1.15.2...v1.15.3) (2021-10-01)
+
+
+### Bug Fixes
+
+* Remove engines block from renovate config ([0b7976e](https://github.com/dbirks/shepherd/commit/0b7976e32897db82708e7d1f94229c0a745c1b17))
 
 ## [1.15.2](https://github.com/dbirks/shepherd/compare/v1.15.1...v1.15.2) (2021-10-01)
 
