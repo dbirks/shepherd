@@ -1,3 +1,10 @@
+## [1.15.3](https://github.com/dbirks/shepherd/compare/v1.15.2...v1.15.3) (2021-10-01)
+
+
+### Bug Fixes
+
+* Remove engines block from renovate config ([0b7976e](https://github.com/dbirks/shepherd/commit/0b7976e32897db82708e7d1f94229c0a745c1b17))
+
 ## [1.15.2](https://github.com/dbirks/shepherd/compare/v1.15.1...v1.15.2) (2021-10-01)
 
 
