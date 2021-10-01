@@ -1,3 +1,10 @@
+## [1.15.6](https://github.com/dbirks/shepherd/compare/v1.15.5...v1.15.6) (2021-10-01)
+
+
+### Bug Fixes
+
+* Set npmPublish to false for @semantic-release/npm ([bc60439](https://github.com/dbirks/shepherd/commit/bc604397e741e8f1f13cc353357c824b1b725f7f))
+
 ## [1.15.5](https://github.com/dbirks/shepherd/compare/v1.15.4...v1.15.5) (2021-10-01)
 
 
