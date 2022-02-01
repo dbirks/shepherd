@@ -9,6 +9,7 @@ const VALID_SEARCH_TYPES: ReadonlyArray<string> = ['code', 'repositories'] as co
 
 const RetryableOctokit = Octokit.plugin(retry);
 
+// Make sure to do this.
 interface SearchTypeAndQueryParams {
   search_type?: string
   search_query: string

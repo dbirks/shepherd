@@ -134,6 +134,7 @@ export default class ConsoleLogger implements ILogger {
 
     if (this.spinnerActive) {
       // We need to temporarily clear the spinner as we write this output
+      console.log("Hi mom");
       this.oraInstance.stop();
     }
 
