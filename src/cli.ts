@@ -125,7 +125,7 @@ program.command('version').description('Print Shepherd version').action(async ()
 
 program.on('command:*', () => {
   logger.error(`Error: no such command "${program.args[0]}"`);
-  process.exit(1);
+  process.exit(2);
 });
 
 program.parse(process.argv);
