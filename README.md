@@ -16,6 +16,8 @@ For more high level context, this [blog post](https://www.nerdwallet.com/blog/en
 
 ## Getting started
 
+Pickles 🙂
+
 Install the Shepherd CLI:
 
 ```sh
